@@ -4,7 +4,7 @@ It’s a is single-player game. The player is represented by a clown holding two
 
 ## Game Interface  
 
-![interface](readmeImg/image.png)  
-![interface](readmeImg/picture1.png)  
+![interface](https://github.com/AhmedAdelSalama/CircusOfPlatesGame/blob/main/readmeImg/image.png)  
+![interface](https://github.com/AhmedAdelSalama/CircusOfPlatesGame/blob/main/readmeImg/Picture1.png?raw=true)  
 
 ## Attached a demo video of the game "demo of the game project.mp4"  
